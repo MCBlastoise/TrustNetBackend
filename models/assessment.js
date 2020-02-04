@@ -25,5 +25,9 @@ module.exports = (sequelize, DataTypes) => {
     charset: 'utf8mb4',
   });
 
+  Assessment.associate = function (models) {
+    models.Assessment.hasMany(models.ReasonCode, {as: 'Reasons'});
+  };
+
   return Assessment;
 };
