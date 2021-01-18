@@ -72,7 +72,7 @@ router.route('/signup')
            to: user.email,
            subject: `Account Verification for ${constants.SITE_NAME}`,
            html: `<p>Hi ${user.firstName}!</p>
-           <p>Thanks for signing up for Trustent. If this wasn't you, please ignore
+           <p>Thanks for signing up for ${constants.SITE_NAME}. If this wasn't you, please ignore
            this email and we will remove your address from our records.</p>
            <p>To activate your account, please click on the following link within the next 6 hours:</p>
            <p> <a href="${verificationLink}">${verificationLink}</a></p>
