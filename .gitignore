@@ -4,6 +4,7 @@
 # misc
 .DS_Store
 /config/database.json
+/config/database_anon.json
 .env
 *.log
 winston/

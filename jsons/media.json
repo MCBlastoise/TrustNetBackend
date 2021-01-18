@@ -58,6 +58,297 @@
         }
     ]
 
-  }
+  },
 
+  {
+    "username": "Hacker News: Front Page",
+    "photoUrl": "logos/HackerNews.png",
+    "feeds": [
+        {
+          "rssfeed": "https://hnrss.org/frontpage",
+        }
+    ]
+
+  },
+
+  {
+    "username": "The Guardian",
+    "photoUrl": "logos/guardian.jpg",
+    "feeds": [
+        {
+          "rssfeed": "https://www.theguardian.com/uk/rss"
+        }
+    ]
+
+  },
+
+  {
+    "username": "Features – FiveThirtyEight",
+    "photoUrl": "logos/FiveThirtyEight.png",
+    "feeds": [
+        {
+          "rssfeed": "https://fivethirtyeight.com/features/feed/"
+        }
+    ]
+
+  },
+
+  {
+    "username": "BBC News - Home",
+    "photoUrl": "logos/bbc.png",
+    "feeds": [
+        {
+          "rssfeed": "http://feeds.bbci.co.uk/news/rss.xml"
+        }
+    ]
+
+  },
+
+  {
+    "username": "Boing Boing",
+    "photoUrl": "logos/boingboing.png",
+    "feeds": [
+        {
+          "rssfeed": "https://boingboing.net/feed"
+        }
+    ]
+
+  },
+
+  {
+    "username": "Politics – FiveThirtyEight",
+    "photoUrl": "logos/FiveThirtyEight.png",
+    "feeds": [
+        {
+          "rssfeed": "https://fivethirtyeight.com/politics/feed/"
+        }
+    ]
+
+  },
+
+  {
+    "username": "Slashdot",
+    "photoUrl": "logos/slashdot.png",
+    "feeds": [
+        {
+          "rssfeed": "http://rss.slashdot.org/Slashdot/slashdotMain"
+        }
+    ]
+
+  },
+
+  {
+    "username": "Infowars: There's a War on for Your Mind!",
+    "photoUrl": "logos/Info-Wars.jpg",
+    "feeds": [
+        {
+          "rssfeed": "https://www.infowars.com/rss.xml"
+        }
+    ]
+
+  },
+
+
+  {
+    "username": "Common Dreams - Breaking News & Views for the Progressive Community",
+    "photoUrl": "logos/Common-Dreams.jpg",
+    "feeds": [
+        {
+          "rssfeed": "https://www.commondreams.org/rss.xml"
+        }
+    ]
+
+  },
+
+  {
+    "username": "PowerPost",
+    "photoUrl": "logos/WashingtonPost.jpg",
+    "feeds": [
+        {
+          "rssfeed": "http://feeds.washingtonpost.com/rss/rss_powerpost"
+        }
+    ]
+
+  },
+
+  {
+    "username": "One America News Network",
+    "photoUrl": "logos/oan.png",
+    "feeds": [
+        {
+          "rssfeed": "https://www.oann.com/feed"
+        }
+    ]
+
+  },
+
+  {
+    "username": "Talking Points Memo",
+    "photoUrl": "https://logo.clearbit.com/talkingpointsmemo.com",
+    "feeds": [
+        {
+          "rssfeed": "https://talkingpointsmemo.com/feed/atom"
+        }
+    ]
+
+  },
+
+  {
+    "username": "Business | The Economist",
+    "photoUrl": "logos/The-Economist.png",
+    "feeds": [
+        {
+          "rssfeed": "https://www.economist.com/business/rss.xml"
+        }
+    ]
+
+  },
+
+  {
+    "username": "Finance & economics | The Economist",
+    "photoUrl": "logos/The-Economist.png",
+    "feeds": [
+        {
+          "rssfeed": "https://www.economist.com/finance-and-economics/rss.xml"
+        }
+    ]
+
+  },
+
+  {
+    "username": "United States | The Economist",
+    "photoUrl": "logos/The-Economist.png",
+    "feeds": [
+        {
+          "rssfeed": "https://www.economist.com/united-states/rss.xml"
+        }
+    ]
+
+  },
+  {
+    "username": "Articles and Investigations - ProPublica",
+    "photoUrl": "logos/Propublica.png",
+    "feeds": [
+        {
+          "rssfeed": "http://feeds.propublica.org/propublica/main"
+        }
+    ]
+
+  },
+
+  {
+    "username": "WSJ.com: World News",
+    "photoUrl": "logos/WSJ.png",
+    "feeds": [
+        {
+          "rssfeed": "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+        }
+    ]
+
+  },
+  {
+    "username": "WSJ.com: Markets",
+    "photoUrl": "logos/WSJ.png",
+    "feeds": [
+        {
+          "rssfeed": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"
+        }
+    ]
+
+  },
+
+  {
+    "username": "WSJ.com: US Business",
+    "photoUrl": "logos/WSJ.png",
+    "feeds": [
+        {
+          "rssfeed": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml"
+        }
+    ]
+
+  },
+  {
+    "username": "WSJ.com: US Business",
+    "photoUrl": "logos/WSJ.png",
+    "feeds": [
+        {
+          "rssfeed": "https://feeds.a.dj.com/rss/RSSOpinion.xml"
+        }
+    ]
+
+  },
+
+  {
+    "username": "OAN Newsroom – One America News Network",
+    "photoUrl": "logos/oan.png",
+    "feeds": [
+        {
+          "rssfeed": "https://www.oann.com/category/newsroom/feed/"
+        }
+    ]
+
+  },
+
+  {
+    "username": "World – One America News Network",
+    "photoUrl": "logos/oan.png",
+    "feeds": [
+        {
+          "rssfeed": "https://www.oann.com/category/world/feed/"
+        }
+    ]
+
+  },
+  {
+    "username": "Politics | POLITICO",
+    "photoUrl": "logos/politico.jpeg",
+    "feeds": [
+        {
+          "rssfeed": "https://rss.politico.com/politics-news.xml"
+        }
+    ]
+
+  },
+  {
+    "username": "Economy | POLITICO",
+    "photoUrl": "logos/politico.jpeg",
+    "feeds": [
+        {
+          "rssfeed": "https://rss.politico.com/economy.xml"
+        }
+    ]
+
+  },
+  {
+    "username": "Health Care | POLITICO",
+    "photoUrl": "logos/politico.jpeg",
+    "feeds": [
+        {
+          "rssfeed": "https://rss.politico.com/healthcare.xml"
+        }
+    ]
+
+  },
+
+  {
+    "username": "TheHill - Most Popular",
+    "photoUrl": "logos/The-Hill.png",
+    "feeds": [
+        {
+          "rssfeed": "https://thehill.com/rss/syndicator/19110"
+        }
+    ]
+
+  },
+
+  {
+    "username": "CITIZEN FREE PRESS",
+    "photoUrl": "logos/citizen-free-press.png",
+    "feeds": [
+        {
+          "rssfeed": "https://www.citizenfreepress.com/feed/"
+        }
+    ]
+
+  }
 ]
