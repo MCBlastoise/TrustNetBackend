@@ -65,7 +65,7 @@
     "photoUrl": "logos/HackerNews.png",
     "feeds": [
         {
-          "rssfeed": "https://hnrss.org/frontpage",
+          "rssfeed": "https://hnrss.org/frontpage"
         }
     ]
 
